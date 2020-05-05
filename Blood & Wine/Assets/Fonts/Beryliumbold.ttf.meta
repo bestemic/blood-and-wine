@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 305e1c7b0db031440b12f61823dfbf50
+guid: c6e895d89e22baa49ba2c2727b2bed43
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Comic Sans MS
+  fontName: Berylium
   fontNames:
-  - Comic Sans MS
+  - Berylium
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
